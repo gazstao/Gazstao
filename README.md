@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Nuclear Medicine Maintenance and Security
+- 🔭 I’m currently working on Nuclear Medicine Maintenance and Cybersecurity
 - 🌱 I’m currently learning cybersecurity, artifical intelligence and how to evolve as human being
 
 - 📫 How to reach me: https://aztechtecnologia.com.br
